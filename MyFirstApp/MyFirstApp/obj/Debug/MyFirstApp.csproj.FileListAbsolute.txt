@@ -1,0 +1,7 @@
+D:\IvyRepo\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+D:\IvyRepo\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe
+D:\IvyRepo\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
+D:\IvyRepo\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csprojAssemblyReference.cache
+D:\IvyRepo\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\IvyRepo\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
+D:\IvyRepo\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
